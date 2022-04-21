@@ -1,0 +1,21 @@
+#                                                           Developed by Sxmuray
+#                                                     (Aquatic Studios @ (C) 2019-2022)
+
+name: 'Superfly'
+version: '3.0.1'
+authors:
+  - 'Sxmuray'
+  - 'Aquatic Studios'
+
+main: org.github.sxmuray.Superfly
+website: https://github.com/Sxmuray
+
+description: 'All rights reserved by Aquatic Studios'
+
+commands:
+  fly:
+    description: Command to run flight mode
+  superfly:
+    description: Use command for flight mode
+    aliases:
+      - sfly
